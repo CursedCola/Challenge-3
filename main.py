@@ -35,8 +35,10 @@ print(f'There are over {length} words in the text')
 
 
 # 3. What are the first and last letters of the text? Here, we will clearly use indexing.
-#print(text[0])
-#print(text[-1])
+first_letter = 
+last_letter = list.pop()
+print()
+print(last_letter)
 # 4. The system will show us how the text would look like if we inverted the order of the words.::-1 Is there any method that allows us to invert the order of a list? And another one that allows us to join these elements with spaces in between?
 
 # 5. The system will tell us if the word “python” is inside the text. This part can be a bit complicated to imagine, but I'll give you a hint: you can use Booleans to make your enquiry and a dictionary to find ways to express your answer.
